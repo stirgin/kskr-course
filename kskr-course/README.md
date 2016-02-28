@@ -1,2 +1,0 @@
-# kskr-course
-kskr
